@@ -68,3 +68,7 @@
 2024-06-15 18:54:39,905 - logger_test - INFO - deep,registered to our website
 2024-06-15 18:55:17,707 - logger_test - INFO - deep Visiting Home page
 2024-06-15 18:55:17,714 - logger_test - INFO - Someone Visiting Home page
+2024-06-16 01:07:29,849 - logger_test - INFO - Someone Visiting Home page
+2024-06-16 01:07:53,189 - logger_test - INFO - Someone Visiting Home page
+2024-06-16 01:30:11,077 - logger_test - INFO - Someone Visiting Home page
+2024-06-16 01:43:48,475 - logger_test - INFO - Someone Visiting Home page
