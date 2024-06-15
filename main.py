@@ -634,5 +634,5 @@ def orders():
     logger.info(f"{cid} visiting order details")
     return render_template("Orders/orders.html", items=lst, data=items)
 # craeting main Function
-# if __name__ == "__main__":
-#     app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
